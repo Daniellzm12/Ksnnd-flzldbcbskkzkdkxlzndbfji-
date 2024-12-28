@@ -35,27 +35,27 @@
     "ignoreCommand": []
   },
   "adminBot": [
-    "61566369721724"
+    "61559094424565,6157043731236"
   ],
   "whiteListMode": {
     "enable": false,
     "whiteListIds": [
-      "61566369721724"
+      "61559094424565"
     ],
     "notes": "if you enable this feature, only the ids in the whiteListIds section can use the bot"
   },
   "nickNameBot": "ADRIYAN 卝 ARYAN࿐ツ",
-  "prefix": "/",
+  "prefix": "@",
   "ArYanapi": "https://aryan-rest-api.onrender.com",
   "api": "",
   "api2": "",
   "api3": "",
   "authorName": "ArYan 🤡",
-  "facebook2": "https://www.facebook.com/raj.vai.404",
-  "facebook": "https://www.facebook.com/ArYan.com.404",
-  "email": "adriyanaryan@yahoo.com",
+  "facebook2": "https://www.facebook.com/profile.php?id=61559094424565",
+  "facebook": "https://www.facebook.com/profile.php?id=61570437317236",
+  "email": "danielluzumu@gmail.com ",
   "replit": "https://replit.com/@ARYAN-BOT",
-  "github": "https://github.com/ARYAN-BOT-404",
+  "github": "https://github.comd/daniellzm11/junior-brayn",
   "insta": "no",
   "age": "18+",
   "TG": "",
